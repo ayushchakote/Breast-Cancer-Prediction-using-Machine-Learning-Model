@@ -1,16 +1,19 @@
 Objective:
 Utilize a dataset to apply the basic principles of machine learning.
 Analyze, understand, and provide evidence for our conclusions and interpretations using the Jupyter notebook's observed dataset.
-The four portions of the analysis are stored as juypter notebooks within this repository.
+
+The analysis is divided into 4 sections.
+  1. Identifying the problem statement and Data Sources
+  2. Exploratory Data Analysis
+  3. Pre-Processing the Data
+  4. Buid the model to predict whether breast cell tissue is Maligaant or Bengin
 Recognizing the issue and Sources of Data
 Investigative Data Analysis
 
-Data Pre-Processing
-Create a model to determine if breast tissue is cancerous or benign
 Part 1: Determining the issue and obtaining information.
 Goal:List the different kinds of data that are included in our data set. We'll utilize Python modules to import external data sets so that we may become acquainted with the information in order to better understand it and consider various approaches to handling it. 
 
-Section 2: Investigative Data Examination
+Part 2: Exploratory Data Analysis
 Objective: Investigate the factors and evaluate their relationship to the response variable. Using Python packages (Pandas, matplotlib, and seaborn), we will explore and visualize the data in this notebook to become acquainted with it. It is crucial to get familiar with the data since this will give you critical knowledge for pre-processing the data.
 
 Part 3: Data Pre-Processing
